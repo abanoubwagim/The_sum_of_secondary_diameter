@@ -4,6 +4,6 @@ Calculate The number at the end of the first Row after that Calculate  The numbe
 ![for example](https://github.com/abanoubwagim/The_sum_of_secondary_diameter/assets/149309638/267aabc1-8e31-4d06-b466-f19c3d45af8f)                   
 This photo shows,  How to work an array                              
 The red Numbers are calculated.                        
-This project contains one array and Three For loops.                       
-The first loop and second loop talk about saving The numbers.                     
-The Third loop talks about Calculate Them.
+This project contains one array and Three For loops.      The first loop and second loop talk about saving The numbers.                     
+The Third loop talks about Calculate Them.                       
+This Project was worked on by IntelliJ.
